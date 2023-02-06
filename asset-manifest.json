@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/ICGNU/static/js/main.a8217d89.js",
+    "static/media/blog-post.1.md": "/ICGNU/static/media/blog-post.1.0c315da1f0a7af641a3a.md",
+    "static/media/blog-post.2.md": "/ICGNU/static/media/blog-post.2.bec33d7c8bf27858ce0c.md",
+    "static/media/blog-post.3.md": "/ICGNU/static/media/blog-post.3.0a90113db17c3659cca0.md",
+    "index.html": "/ICGNU/index.html",
+    "main.a8217d89.js.map": "/ICGNU/static/js/main.a8217d89.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a8217d89.js"
+  ]
+}
