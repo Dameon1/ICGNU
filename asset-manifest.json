@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.js": "/ICGNU/static/js/main.7407bd9f.js",
+    "main.js": "/ICGNU/static/js/main.475556ae.js",
+    "static/media/collectiveImage.png": "/ICGNU/static/media/collectiveImage.6a810b390e61ddae224c.png",
+    "static/media/roadmap.png": "/ICGNU/static/media/roadmap.11defee0d1339c5dd704.png",
+    "static/media/Tuan.jpg": "/ICGNU/static/media/Tuan.c67e97a07a523fcc842e.jpg",
+    "static/media/Lucine.jpg": "/ICGNU/static/media/Lucine.e89c8bdb38cce27684fe.jpg",
+    "static/media/favicon.ico": "/ICGNU/static/media/favicon.9797b903981b0077599f.ico",
     "static/media/blog-post.1.md": "/ICGNU/static/media/blog-post.1.0c315da1f0a7af641a3a.md",
     "static/media/blog-post.2.md": "/ICGNU/static/media/blog-post.2.bec33d7c8bf27858ce0c.md",
     "static/media/blog-post.3.md": "/ICGNU/static/media/blog-post.3.0a90113db17c3659cca0.md",
     "index.html": "/ICGNU/index.html",
-    "main.7407bd9f.js.map": "/ICGNU/static/js/main.7407bd9f.js.map"
+    "main.475556ae.js.map": "/ICGNU/static/js/main.475556ae.js.map"
   },
   "entrypoints": [
-    "static/js/main.7407bd9f.js"
+    "static/js/main.475556ae.js"
   ]
 }
