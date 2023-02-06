@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/ICGNU/static/js/main.475556ae.js",
+    "main.js": "/ICGNU/static/js/main.61ad5db3.js",
     "static/media/collectiveImage.png": "/ICGNU/static/media/collectiveImage.6a810b390e61ddae224c.png",
     "static/media/roadmap.png": "/ICGNU/static/media/roadmap.11defee0d1339c5dd704.png",
     "static/media/Tuan.jpg": "/ICGNU/static/media/Tuan.c67e97a07a523fcc842e.jpg",
@@ -10,9 +10,9 @@
     "static/media/blog-post.2.md": "/ICGNU/static/media/blog-post.2.bec33d7c8bf27858ce0c.md",
     "static/media/blog-post.3.md": "/ICGNU/static/media/blog-post.3.0a90113db17c3659cca0.md",
     "index.html": "/ICGNU/index.html",
-    "main.475556ae.js.map": "/ICGNU/static/js/main.475556ae.js.map"
+    "main.61ad5db3.js.map": "/ICGNU/static/js/main.61ad5db3.js.map"
   },
   "entrypoints": [
-    "static/js/main.475556ae.js"
+    "static/js/main.61ad5db3.js"
   ]
 }
